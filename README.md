@@ -5,9 +5,9 @@
 This project combines two essential search algorithms, Binary Search and Linear Search, into a single script. The purpose is to compare their efficiencies and understand their practical applications in different scenarios.
 
 ## How to Run the Program
-1. Clone this repository:
+1. Clone this
    ```
-   git clone https://github.com/your-username/Search-Algorithms.git
+   https://github.com/mk1042/Searching-Algorithm
    ```
 2. Navigate to the project directory and run the script:
    ```
